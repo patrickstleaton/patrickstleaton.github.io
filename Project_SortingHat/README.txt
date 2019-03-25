@@ -1,0 +1,1 @@
+This program was written in Java using a GUI and an SQL database to simulate the "Sorting Hat" from Harry Potter.  
