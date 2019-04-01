@@ -1,0 +1,1 @@
+This is a Tic Tac Toe application made using CSS, Javascript, and HTML.  Access the HTML file in a local browser to enjoy!
