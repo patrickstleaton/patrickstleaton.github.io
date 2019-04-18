@@ -1,0 +1,9 @@
+{% extends "my_app/my_app_base.html"%}
+{% block body_block %}
+<h1>Welcome to a list of all the hospitals</h1>
+<ol>
+  {% for hospital in hospitals %}
+  <h2><li><a href="{{hospital.id}}">{{hospital.name}}</a></li></h2>
+  {% endfor %}
+</ol>
+{% endblock %}
